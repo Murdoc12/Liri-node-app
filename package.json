@@ -1,7 +1,7 @@
 {
-  "name": "liri",
+  "name": "name",
   "version": "1.0.0",
-  "description": "",
+  "description": "About\r LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,13 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murdoc12/Liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Murdoc12/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Murdoc12/Liri-node-app#readme"
 }
