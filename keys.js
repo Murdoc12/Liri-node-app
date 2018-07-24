@@ -1,10 +1,10 @@
 require("dotenv").config();
 
 exports.twitter = {
-  consumer_key: 'SJ0rbnrDAwGZt9jDKfayqkFQI',
-  consumer_secret:'HtPFumhBMLZ1mGeLJQixVqrIKPE1trZJmuqLryTjqN4wrUIcQ3 ',
-  access_token_key: '1038442532-U43ZnolCmPdUiQMws7BMFLEmjfD25KGic7MXx11',
-  access_token_secret: 'ASG047SNKdIGCK04im3Vxo3xaNMYDMRQnf7aUjN9FP4yK',
+  consumer_key: 'yKMV10qHCTOBAyOJL50DAlqyo',
+  consumer_secret:'ggsVo6leAgeoWgI47raIDLF38tF6VwFJTwMY25dRz3QUTHz9kB ',
+  access_token_key: '1038442532-8ALpCobwd6TyV7cNabzRl6CG3mTiRbRIIUlWcL0 ',
+  access_token_secret: 'pOVL23Qfb1SN3MWp9jfJKgD7BFv76ywiZudvRKyIo5F1H',
 };
 
 exports.spotify = {
